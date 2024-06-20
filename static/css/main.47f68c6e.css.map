@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.47f68c6e.css","mappings":"AAIA,2GACI,YACJ","sources":["pages/Swap/style.css"],"sourcesContent":[".react-slideshow-container .default-nav:last-of-type {\n    display: none;\n}\n\n.react-slideshow-container .default-nav:first-of-type {\n    display: none;\n}"],"names":[],"sourceRoot":""}
